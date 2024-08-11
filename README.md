@@ -58,3 +58,11 @@ Limitations:
 
 
 ## Roadmap
+
+[X] Choose a Trailer
+[X] Choose a New Theme
+[X] Collect Additional Audio Files
+[X] Brainstorm the use of Audio Filters and others.
+[] Edit Trailer Audio
+[] Publish
+
