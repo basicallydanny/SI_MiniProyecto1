@@ -28,7 +28,6 @@ Presented by Daniela Gómez and Santiago Peña
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#statement">Project Statement</a></li>
         <li><a href="#limitations">Limitations</a></li>
       </ul>
       <ul>
@@ -45,7 +44,7 @@ Presented by Daniela Gómez and Santiago Peña
 
 Select a trailer for an upcoming video game or movie and using Audacity to edit its audio without altering the video. The goal is to change the tone of the trailer, such as turning a horror trailer into a comedy.
 
-Limitations:
+### Limitations
 * The final length of the trailer must be the same as the original.
 * It must be no longer than 3 minutes.
 * The video cannot be edited.
@@ -59,10 +58,26 @@ Limitations:
 
 ## Roadmap
 
-[X] Choose a Trailer
-[X] Choose a New Theme
-[X] Collect Additional Audio Files
-[X] Brainstorm the use of Audio Filters and others.
-[] Edit Trailer Audio
-[] Publish
+- [x] Choose a Trailer
+- [x] Choose a New Theme
+- [x] Collect Additional Audio Files
+- [x] Brainstorm the use of Audio Filters and others
+- [x] Edit Trailer Audio
+- [x] Publish
+
+## Decision Overview
+
+In developing the audio theme for our project, we made a deliberate choice to contrast the horror elements of the game by adopting a happier, more upbeat tone. This unexpected contrast is designed to create a unique and engaging experience, reminiscent of a tycoon zoo style, which adds an element of irony and unpredictability to the game’s atmosphere.
+
+To achieve this, we used various audio techniques:
+
+- Layering: We layered sounds, maintaining certain audio elements above others to create depth and complexity.
+
+- Fade In/Out Transitions: We smoothly linked different soundscapes, creating a cohesive auditory experience.
+
+- Distortion Effects: We experimented with different types of distortion, including the use of even harmonics, particularly for animal sounds. This subtle distortion adds a layer of eeriness while maintaining the overall cheerful tone.
+  
+- Directional Sound Placement: By strategically placing specific sounds on the left or right audio channels, we created a dynamic presence.
+
+---
 
