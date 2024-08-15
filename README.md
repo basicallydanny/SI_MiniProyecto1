@@ -17,6 +17,8 @@ Presented by Daniela Gómez and Santiago Peña
 <h3 align="center">MINI PROJECT #1</h3>
   <p align="center">
     README in regards to the project #1 for Interaction Systems 2472 - A
+  </p>
+  <p align="center">
     Link to files: https://drive.google.com/drive/folders/1NKmZQXHRsT2oGvMUvR_h4cnH42MD6MfX?usp=sharing
   </p>
 </div>
