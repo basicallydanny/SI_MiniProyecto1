@@ -1,6 +1,8 @@
 # SI_MiniProyecto1
 
-[Contributors][contributors-url]
+[contributors-shield]: https://img.shields.io/github/contributors/basicallydanny/SI_MiniProyecto1.svg?style=for-the-badge
+[contributors-url]: https://github.com/basicallydanny/SI_MiniProyecto1/graphs/contributors
+[![Contributors][contributors-shield]][contributors-url]
 
 <div align="left">
 Presented by Daniela Gómez and Santiago Peña
